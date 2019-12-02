@@ -8,8 +8,8 @@ JWT Authentication for WP-API
 ## Configurate the secret key
 ```	
 define('JWT_AUTH_SECRET_KEY','your-top-secret-key');
-[You can use a string from here](https://wordpress.org/plugins/jwt-authentication-for-wp-rest-api/).
 ```
+[You can use a string from here](https://wordpress.org/plugins/jwt-authentication-for-wp-rest-api/).
 
 ## Configurate cors support
 ```	
